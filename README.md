@@ -1,5 +1,3 @@
-# Tonometer
-
 ![Tonometer — Blood pressure journal](store-assets/feature-graphic-slim.svg)
 
 
