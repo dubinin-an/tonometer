@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500" viewBox="0 0 1024 500">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#315C91"/>
+      <stop offset="1" stop-color="#173A66"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="500" fill="url(#background)"/>
+  <circle cx="208" cy="250" r="132" fill="#FFFFFF" fill-opacity="0.10"/>
+  <g transform="translate(87 129) scale(.24)" fill="none" stroke="#FFFFFF" stroke-width="70" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 310V160Q80 80 160 80H840Q920 80 920 160V310"/>
+    <path d="M80 690V840Q80 920 160 920H840Q920 920 920 840V690"/>
+    <path d="M80 500H330L430 690L590 310L690 500H920"/>
+  </g>
+  <text x="390" y="232" fill="#FFFFFF" font-family="Roboto, Arial, sans-serif" font-size="72" font-weight="700">Tonometer</text>
+  <text x="394" y="294" fill="#DCE9F8" font-family="Roboto, Arial, sans-serif" font-size="30">Blood pressure journal</text>
+</svg>
