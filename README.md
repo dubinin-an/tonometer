@@ -1,5 +1,8 @@
 # Tonometer
 
+![Tonometer — Blood pressure journal](store-assets/feature-graphic.svg)
+
+
 Android-приложение на Flutter для локального журнала артериального давления.
 Данные и фотографии обрабатываются на устройстве и не отправляются разработчику.
 

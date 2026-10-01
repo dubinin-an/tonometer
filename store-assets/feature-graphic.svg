@@ -1,17 +1,126 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500" viewBox="0 0 1024 500">
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#315C91"/>
-      <stop offset="1" stop-color="#173A66"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1600"
+   height="900"
+   viewBox="0 0 1600 900"
+   role="img"
+   aria-labelledby="title desc"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="feature-graphic.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="0.46222222"
+     inkscape:cx="468.38942"
+     inkscape:cy="606.85096"
+     inkscape:window-width="1728"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="608"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <title
+     id="title">Tonometer</title>
+  <desc
+     id="desc">Tonometer — Blood pressure journal</desc>
+  <defs
+     id="defs2">
+    <!-- Спокойный слабый градиент -->
+    <linearGradient
+       id="background"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         offset="0%"
+         stop-color="#315D8C"
+         id="stop1" />
+      <stop
+         offset="100%"
+         stop-color="#183E69"
+         id="stop2" />
     </linearGradient>
   </defs>
-  <rect width="1024" height="500" fill="url(#background)"/>
-  <circle cx="208" cy="250" r="132" fill="#FFFFFF" fill-opacity="0.10"/>
-  <g transform="translate(87 129) scale(.24)" fill="none" stroke="#FFFFFF" stroke-width="70" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M80 310V160Q80 80 160 80H840Q920 80 920 160V310"/>
-    <path d="M80 690V840Q80 920 160 920H840Q920 920 920 840V690"/>
-    <path d="M80 500H330L430 690L590 310L690 500H920"/>
+  <!-- Background -->
+  <rect
+     width="1600"
+     height="900"
+     fill="url(#background)"
+     id="rect2" />
+  <!--
+    Logo group.
+    Общий stroke используется для четырёх углов.
+  -->
+  <!-- Text -->
+  <g
+     id="g8"
+     transform="translate(-23.710276)">
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-width="20"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g6">
+      <!-- Верхний левый угол -->
+      <path
+         d="m 435,377 v -39 q 0,-20 20,-20 h 80"
+         id="path2" />
+      <!-- Верхний правый угол -->
+      <path
+         d="m 535,318 h 110 q 20,0 20,20 v 39"
+         id="path3" />
+      <!-- Нижний левый угол -->
+      <path
+         d="m 435,470 v 40 q 0,20 20,20 h 80"
+         id="path4" />
+      <!-- Нижний правый угол -->
+      <path
+         d="m 535,530 h 110 q 20,0 20,-20 v -40"
+         id="path5" />
+      <!-- Pulse / measurement line -->
+      <path
+         d="m 435,420 h 55 l 35,48 40,-98 37,50 h 63"
+         id="path6" />
+    </g>
+    <g
+       font-family="Inter, Arial, Helvetica, sans-serif"
+       id="g7">
+      <!-- App name -->
+      <text
+         x="715"
+         y="423"
+         fill="#ffffff"
+         font-size="104px"
+         font-weight="700"
+         letter-spacing="-3"
+         id="text6">Tonometer</text>
+      <!-- Subtitle -->
+      <text
+         x="725.00031"
+         y="492.16177"
+         fill="#ffffff"
+         fill-opacity="0.72"
+         font-size="54.1378px"
+         font-weight="400"
+         letter-spacing="-1"
+         id="text7"
+         transform="scale(0.98432357,1.0159261)"
+         style="stroke-width:0.984324">Blood pressure journal</text>
+    </g>
   </g>
-  <text x="390" y="232" fill="#FFFFFF" font-family="Roboto, Arial, sans-serif" font-size="72" font-weight="700">Tonometer</text>
-  <text x="394" y="294" fill="#DCE9F8" font-family="Roboto, Arial, sans-serif" font-size="30">Blood pressure journal</text>
 </svg>
