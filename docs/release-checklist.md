@@ -4,7 +4,7 @@
 
 - [x] Permanent Android application ID: `app.tonometer.tonometer`.
 - [x] Privacy-policy developer and contact: Aleksei Dubinin, `dubinin.a.n@gmail.com`.
-- [ ] Publish the privacy policy at a stable public HTTPS URL.
+- [x] Privacy policy: <https://dubinin-an.github.io/tonometer/privacy-policy.html>.
 - [ ] Create and securely back up the Android upload keystore and its passwords.
 
 The package ID changed from the MVP identifier. Existing local MVP installations are a separate Android application and their local data is not migrated automatically.

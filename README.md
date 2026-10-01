@@ -21,9 +21,9 @@ Android-приложение на Flutter для локального журна
 
 ## Конфиденциальность
 
-Приложение работает без аккаунта, аналитики, рекламы и серверной части. Политика
-конфиденциальности находится в [`docs/privacy-policy.md`](docs/privacy-policy.md),
-а готовая страница для GitHub Pages — в
+Приложение работает без аккаунта, аналитики, рекламы и серверной части. Публичная
+политика конфиденциальности: <https://dubinin-an.github.io/tonometer/privacy-policy.html>.
+Её исходники находятся в [`docs/privacy-policy.md`](docs/privacy-policy.md) и
 [`docs/privacy-policy.html`](docs/privacy-policy.html).
 
 ## Запуск
